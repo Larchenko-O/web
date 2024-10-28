@@ -6,3 +6,5 @@
 ### Перешел к самому тетсированию. Прогнал тест-кейсы в QASE и на найденные баги завел отчеты о дефектах в YouTrack:
 - [Тестовый прогон в QASE](https://github.com/Larchenko-O/web/blob/main/Тестовый%20прогон%20-%20Alexey%20Larchenko.pdf)  
 - [Отчеты о дефектах в YouTrack](https://github.com/Larchenko-O/web/blob/main/Отчеты%20о%20дефекте%20-%20Alexey%20Larchenko.xlsx)  
+### Обучился перехвату и изменению трафика в Charles Proxy (видео):
+- ![Перехват и изменение трафика в Charles Proxy](Charles_Proxy.mov)
